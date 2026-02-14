@@ -43,55 +43,72 @@ Experienced in building end-to-end data science projects including data preproce
 - Pandas
 - NumPy
 - Scikit-learn
-- TensorFlow / Keras
+- TensorFlow
 - Matplotlib
 - Statsmodels
 
 ---
 
-## Project Portfolio
+# Project Portfolio
 
-### Supervised Machine Learning
-- Decision Tree Classification – [View Project](https://github.com/your-username/decision-tree-classification)
-- Random Forest Classification – [View Project](https://github.com/your-username/random-forest-classification)
-- Support Vector Machine (SVM) – [View Project](https://github.com/your-username/svm-classifier)
-- XGBoost and LightGBM Models – [View Project](https://github.com/your-username/xgboost-lightgbm-models)
+## Supervised Machine Learning
+- Decision Tree Classification  
+  Implementation of decision tree algorithm for classification tasks with model evaluation and performance analysis.  
+  [View Project](https://github.com/Monishaaaaaaaaa/Decision-Tree-Project)
 
-### Unsupervised Learning
-- Clustering Analysis using K-Means – [View Project](https://github.com/your-username/clustering-analysis)
+## Unsupervised Learning
+- Clustering Analysis using K-Means  
+  Customer segmentation and pattern discovery using K-Means clustering with visualization and cluster evaluation.  
+  [View Project](https://github.com/Monishaaaaaaaaa/Clustering-Analysis)
 
-### Recommendation Systems
-- Collaborative Filtering Recommendation System – [View Project](https://github.com/your-username/recommendation-system)
+## Recommendation Systems
+- Collaborative Filtering Recommendation System  
+  Built a recommendation engine using similarity-based collaborative filtering techniques.  
+  [View Project](https://github.com/Monishaaaaaaaaa/Recommendation-System)
 
-### Deep Learning
-- Artificial Neural Network for Classification – [View Project](https://github.com/your-username/neural-network-classification)
-- Recurrent Neural Network for Sequential Data – [View Project](https://github.com/your-username/rnn-sequence-model)
+## Deep Learning
+- Artificial Neural Network for Classification  
+  Developed a multi-layer Artificial Neural Network for classification using backpropagation and nonlinear activation functions.  
+  [View Project](https://github.com/Monishaaaaaaaaa/Neural-Networks)
 
-### Natural Language Processing
-- Text Classification using NLP Techniques – [View Project](https://github.com/your-username/nlp-text-classification)
+## Natural Language Processing
+- Text Classification using NLP Techniques  
+  Implemented text preprocessing, feature extraction, and classification models for NLP tasks.  
+  [View Project](https://github.com/Monishaaaaaaaaa/NLP-Text-Classification)
 
-### Time Series Forecasting
-- Time Series Forecasting Models – [View Project](https://github.com/your-username/time-series-forecasting)
-
----
-
-## Project Highlights
-
-- Implemented ensemble learning techniques to improve predictive performance.
-- Built collaborative filtering systems using similarity measures.
-- Developed deep learning models for structured and sequential data.
-- Applied feature engineering and hyperparameter tuning techniques.
-- Evaluated models using standard performance metrics such as Accuracy, Precision, Recall, F1-score, MAE, and MSE.
+## Time Series Forecasting
+- Time Series Forecasting Models  
+  Applied time series modeling techniques to analyze trends and forecast future values.  
+  [View Project](https://github.com/Monishaaaaaaaaa/Time-Series-Forecasting)
 
 ---
 
-## Career Objective
+# Data Analytics Projects
 
-Seeking entry-level roles in Data Science or Machine Learning where I can apply analytical thinking, statistical modeling, and programming skills to solve real-world problems.
+- Cardiotocographic Data – Exploratory Data Analysis  
+  Performed structured EDA on CTG dataset to identify fetal health indicators and key clinical risk factors.  
+  [View Project](https://github.com/Monishaaaaaaaaa/DATA-ANALYTICS--EDA)
+
+---
+
+# Project Highlights
+
+- Implemented supervised and unsupervised learning algorithms.
+- Applied ensemble learning and performance optimization techniques.
+- Built recommendation systems using similarity measures.
+- Developed deep learning models for structured data.
+- Conducted exploratory data analysis to generate actionable insights.
+- Evaluated models using metrics such as Accuracy, Precision, Recall, F1-score, MAE, and MSE.
+
+---
+
+# Career Objective
+
+Seeking entry-level opportunities in Data Science, Machine Learning, or Data Analytics where I can leverage statistical analysis, machine learning techniques, and programming skills to deliver data-driven solutions and business insights.
 
 ---
 
 ## Contact
 
-LinkedIn: (Add your profile link)  
-Email: (Add your email)  
+LinkedIn: (https://www.linkedin.com/in/monisha-k-1b151b2b9)  
+Email: (111monisha11@gmail.com)  
