@@ -54,32 +54,32 @@ Experienced in building end-to-end data science projects including data preproce
 ## Supervised Machine Learning
 - Decision Tree Classification  
   Implementation of decision tree algorithm for classification tasks with model evaluation and performance analysis.  
-  [View Project](https://github.com/Monishaaaaaaaaa/Decision-Tree-Project)
+  [View Project](https://github.com/Monisha-K15/Decision-Tree-Project)
 
 ## Unsupervised Learning
 - Clustering Analysis using K-Means  
   Customer segmentation and pattern discovery using K-Means clustering with visualization and cluster evaluation.  
-  [View Project](https://github.com/Monishaaaaaaaaa/Clustering-Analysis)
+  [View Project](https://github.com/Monisha-K15/Clustering-Analysis)
 
 ## Recommendation Systems
 - Collaborative Filtering Recommendation System  
   Built a recommendation engine using similarity-based collaborative filtering techniques.  
-  [View Project](https://github.com/Monishaaaaaaaaa/Recommendation-System)
+  [View Project](https://github.com/Monisha-K15/Recommendation-System)
 
 ## Deep Learning
 - Artificial Neural Network for Classification  
   Developed a multi-layer Artificial Neural Network for classification using backpropagation and nonlinear activation functions.  
-  [View Project](https://github.com/Monishaaaaaaaaa/Neural-Networks)
+  [View Project](https://github.com/Monisha-K15/Neural-Networks)
 
 ## Natural Language Processing
 - Text Classification using NLP Techniques  
   Implemented text preprocessing, feature extraction, and classification models for NLP tasks.  
-  [View Project](https://github.com/Monishaaaaaaaaa/NLP-Text-Classification)
+  [View Project](https://github.com/Monisha-K15/NLP-Text-Classification)
 
 ## Time Series Forecasting
 - Time Series Forecasting Models  
   Applied time series modeling techniques to analyze trends and forecast future values.  
-  [View Project](https://github.com/Monishaaaaaaaaa/Time-Series-Forecasting)
+  [View Project](https://github.com/Monisha-K15/Time-Series-Forecasting)
 
 ---
 
@@ -87,7 +87,7 @@ Experienced in building end-to-end data science projects including data preproce
 
 - Cardiotocographic Data – Exploratory Data Analysis  
   Performed structured EDA on CTG dataset to identify fetal health indicators and key clinical risk factors.  
-  [View Project](https://github.com/Monishaaaaaaaaa/DATA-ANALYTICS--EDA)
+  [View Project](https://github.com/Monisha-K15/DATA-ANALYTICS--EDA)
 
 ---
 
