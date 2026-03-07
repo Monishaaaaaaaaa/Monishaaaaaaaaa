@@ -51,15 +51,17 @@ Experienced in building end-to-end data science projects including data preproce
 
 # Project Portfolio
 
-## Supervised Machine Learning
-- Decision Tree Classification  
-  Implementation of decision tree algorithm for classification tasks with model evaluation and performance analysis.  
-  [View Project](https://github.com/Monisha-K15/Decision-Tree-Project)
+## Main Projesct
 
 ## Unsupervised Learning
 - Clustering Analysis using K-Means  
   Customer segmentation and pattern discovery using K-Means clustering with visualization and cluster evaluation.  
   [View Project](https://github.com/Monisha-K15/Clustering-Analysis)
+
+## Supervised Machine Learning
+- Decision Tree Classification  
+  Implementation of decision tree algorithm for classification tasks with model evaluation and performance analysis.  
+  [View Project](https://github.com/Monisha-K15/Decision-Tree-Project)
 
 ## Recommendation Systems
 - Collaborative Filtering Recommendation System  
